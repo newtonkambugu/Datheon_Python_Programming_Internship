@@ -1,19 +1,21 @@
 # Datheon Python Programming Internship
 
-This repository contains my completed tasks for the Datheon Python Programming Internship.
+## 📖 Overview
+This repository contains my tasks and projects completed during the Datheon Python Programming Internship.  
+It showcases my progress in Python programming, data analysis, and project development.
 
-## 📂 Project Structure
-- **Task 1:** Hangman Word Guessing Game (Console)
-  - Implements a terminal-based Hangman game using Python.
-  - Features ASCII gallows art, input validation, and replay option.
-- **Task 2:** 
+## 🧠 Tasks
+### Task 1: Hangman Game
+A command-line word guessing game built using Python.  
+- Demonstrates control flow, loops, and string manipulation.  
+- Includes error handling and replay functionality.
 
+### Task 2: Portfolio Tracker
+A simple portfolio management tool that tracks investments and calculates returns.  
+- Uses file handling and data structures.  
+- Demonstrates modular programming and user input validation.
 
-## 🛠️ Technologies Used
-- Python 3
-- Standard Library (`random`, `os`)
-
-## 🚀 How to Run
+## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Datheon_Python_Programming_Internship.git
+   git clone https://github.com/newtonkambugu/Datheon_Python_Programming_Internship.git
